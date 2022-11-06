@@ -1,0 +1,20 @@
+body {background-color: rgb(97, 250, 255);
+  font-size: 15px;
+}
+h2 {color: rgb(0, 232, 15);
+  font-size: 2em;
+}
+
+.em-song {background-color: red;
+  line-height: 1.5em;
+  text-align: center;
+}
+
+#g-thang {background-color: purple
+}
+
+p {
+  font-family: "monospace";
+  font-weight: bold;
+  font-style: italic;
+}
